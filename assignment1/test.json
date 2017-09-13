@@ -1,0 +1,43 @@
+{
+	"categorieOptions": [{
+		"id": "QCCFqe2JgnO",
+		"name": "TEST - 0-5",
+		"shortName": "0-5"
+	}, {
+		"id": "Iq23XrfDelk",
+		"name": "TEST – 5-10",
+		"shortName": "5-10"
+	}, {
+		"id": "e7faXtJ69UB",
+		"name": "TEST – 10-15",
+		"shortName": "10-15"
+	}, {
+		"id": "pjkWSf5cm4Q",
+		"name": "TEST – 15-20",
+		"shortName": "15-20"
+	}, {
+		"id": "UaGL0rN7LCE",
+		"name": "TEST – 20-25",
+		"shortName": "20-25"
+	}, {
+		"id": "Gk3KHtFd3kM",
+		"name": "TEST – 25-30",
+		"shortName": "25-30"
+	}, {
+		"id": "uEjeic6dy5d",
+		"name": "TEST – 30-35",
+		"shortName": "30-35"
+	}, {
+		"id": "tn28gRAT0ox",
+		"name": "TEST – 35-40",
+		"shortName": "35-40"
+	}, {
+		"id": "OaKv8N9L89f",
+		"name": "TEST – 40-45",
+		"shortName": "40-45"
+	}, {
+		"id": "Hdg1SzxPlTv",
+		"name": "TEST - > 45",
+		"shortName": "> 45"
+	}]
+}
